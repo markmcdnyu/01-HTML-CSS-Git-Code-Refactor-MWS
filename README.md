@@ -14,7 +14,7 @@
 STEPS: Given the HTML and CSS code from client Horiseon, I was able to us VS Code and refractor the basic static website for future building and usage. To see the web page, use default browser to see how the HTML and CSS renders on the page.
 
 <h3>Usage</h3>
-This is the first draft of Horiseon's web page written in HTML and CSS. If more web pages are nexeccary, consider this the new base to buidl from.
+This is the first draft of Horiseon's web page written in HTML and CSS. If more web pages are necesssary, consider this the new base to build from.
 
 <h3>Credits</h3>
 Thanks to Molly Gilbert and Jeff Cartagena for giving the first draft of Horiseon's HTML and CSS static base web code and having me refactor it.

@@ -1,36 +1,21 @@
-# 01-HTML-CSS-Git-Code-Refactor-MWS
-Assignment number one for the MWS group of UT Coding Bootcamp
+# Code Refractoring: HTML-CSS-Git-Code-Refactor-MWS
+<h3>Description</h3>
+<ul>
+    <li> WHAT: Horiseon, a marketing agency, has a base static website that was in need of refractoring.</li>
+    <li> WHY: In order for Horiseon to use this same code for long term sustainability and meet accessibility standards, it needed to follow semantic HTML, logical structure independent of styling and positioning, and to be optimized for search engines. </li> 
+    <li> HOW: For the first refractor, I went with basic HTML and CSS to provide a foundation to build from.</li>  
+    <li> MOTIVATION: Asked to take the first try at refractoring this code, I was glad to jump in and help.</li> 
+    <li> BUILD: HTML and CSS</li>   
+    <li> PROBLEM: The original code worked functionally, but needed some tweaks to become the base for future code.</li>   
+    <li> LEARNINGS: Sometimes functional code can still be cleaned up and produce the same visual results.</li> 
+</ul>
 
-01 HTML CSS Git: Code Refactor
+<h3>Installation</h3>
+STEPS: Given the HTML and CSS code from client Horiseon, I was able to us VS Code and refractor the basic static website for future building and usage. To see the web page, use default browser to see how the HTML and CSS renders on the page.
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+<h3>Usage</h3>
+This is the first draft of Horiseon's web page written in HTML and CSS. If more web pages are nexeccary, consider this the new base to buidl from.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
-
-Always leave the code you are editing a little cleaner than you found it.
-
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-<!-- WHEN I view the image elements
-THEN I find accessible alt attributes -->
-WHEN I view the heading attributes
-THEN they fall in sequential order
-<!-- WHEN I view the title element
-THEN I find a concise, descriptive title -->
-Review
-You are required to submit the following for review:
-
-The URL of the deployed application.
-
-The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+<h3>Credits</h3>
+Thanks to Molly Gilbert and Jeff Cartagena for giving the first draft of Horiseon's HTML and CSS static base web code and having me refactor it.
 
